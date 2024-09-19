@@ -1,1 +1,2 @@
-# git-intro-2 frederic
+# git-intro-2 team : frederic et remi
+
